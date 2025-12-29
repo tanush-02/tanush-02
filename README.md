@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I'm Tanush 
+<b>HI, I'm Tanush <b><br>
 Computer Science Engineering student passionate about building scalable full-stack applications and solving real-world problems.
 
 Experienced in JavaScript, React, Node.js, Express, MongoDB, and REST APIs. Strong foundation in Data Structures & Algorithms, OOP, and system design fundamentals.
