@@ -1,4 +1,5 @@
 # 💫 About Me:
+HI, I'm Tanush 
 Computer Science Engineering student passionate about building scalable full-stack applications and solving real-world problems.
 
 Experienced in JavaScript, React, Node.js, Express, MongoDB, and REST APIs. Strong foundation in Data Structures & Algorithms, OOP, and system design fundamentals.
@@ -20,7 +21,7 @@ Built and deployed multiple production-ready projects including full-stack platf
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanush-02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Tanush thinks
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
