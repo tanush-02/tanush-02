@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently a Software Development Engineer<br>I'm an upcoming intern at IBM<br>My skills are Full Stack Web development, CI/CD, DevOps<br>
+Computer Science Engineering student passionate about building scalable full-stack applications and solving real-world problems.
+
+Experienced in JavaScript, React, Node.js, Express, MongoDB, and REST APIs. Strong foundation in Data Structures & Algorithms, OOP, and system design fundamentals.
+
+Built and deployed multiple production-ready projects including full-stack platforms and fintech simulations. Actively preparing for top-tier software engineering internships and interested in backend, full-stack, and system-level development.
+<br>
 
 
 ## 🌐 Socials:
